@@ -1,0 +1,12 @@
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\obj\Debug\A21_Ex01_Gabi_204344626_Lior_203382494.csproj.AssemblyReference.cache
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\obj\Debug\ChangeAndFiixDessignPattern.Form1.resources
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\obj\Debug\ChangeAndFiixDessignPattern.Login.resources
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\obj\Debug\ChangeAndFiixDessignPattern.Properties.Resources.resources
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\obj\Debug\A21_Ex01_Gabi_204344626_Lior_203382494.csproj.GenerateResource.cache
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\obj\Debug\A21_Ex01_Gabi_204344626_Lior_203382494.csproj.CoreCompileInputs.cache
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\bin\Debug\ChangeAndFiixDessignPattern.exe
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\bin\Debug\Facebook.dll
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\bin\Debug\FbGraphApiWrapper.dll
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\bin\Debug\ChangeAndFiixDessignPattern.pdb
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\obj\Debug\ChangeAndFiixDessignPattern.exe
+D:\HIT\שנה ג\Semester A Year C\תבניות עיצוב\A21 Ex01 GabiOmer 204344626 LiorKricheli 203382494\A21_Ex01_Gabi_204344626_Lior_203382494\obj\Debug\ChangeAndFiixDessignPattern.pdb
